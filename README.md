@@ -55,3 +55,11 @@
 <img src="https://streak-stats.demolab.com?user=rochapires83&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
 
 </div>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/rochapires83/rochapires83/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
